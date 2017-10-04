@@ -1,0 +1,9 @@
+
+
+*.o
+
+# generated files
+
+/dmenu
+/config.h
+/stest
